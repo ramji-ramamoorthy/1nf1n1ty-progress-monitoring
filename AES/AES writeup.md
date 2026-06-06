@@ -1,8 +1,8 @@
 # CryptoHack - How AES Works Writeup
 
-**Author:** Ramji R
-**Platform:** Cryptohack
-**Category:** AES
+**Author:** Ramji R  
+**Platform:** Cryptohack    
+**Category:** AES                                           
 **Date:** June 2026
 
 ---
